@@ -1,5 +1,5 @@
 # Module_14_Challenge
-## Baseline (SVC):
+## Baseline (SVM):
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/75819421/114354368-febe2680-9b22-11eb-9d23-b98e0ad8e2b5.png)
 ![image](https://user-images.githubusercontent.com/75819421/114356321-4f368380-9b25-11eb-8e32-235d77ab0b50.png)
 
